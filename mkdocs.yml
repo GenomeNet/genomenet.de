@@ -3,7 +3,7 @@ site_url: http://genomenet.de/about #this is the main site!
 site_description: GenomeNet Documentation 
 site_author: Philipp Münch
 
-repo_url: https://github.com/athenian-programming/mkdocs-demo
+repo_url: https://github.com/genomenet/about
 repo_name: 'GitHub Home'
 
 theme:
