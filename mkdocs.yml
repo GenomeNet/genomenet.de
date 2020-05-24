@@ -8,6 +8,17 @@ repo_name: 'About'
 
 theme:
   name: material
+  include_search_page: false   # Don't include MkDocs' JavaScript
+  search_index_only: true
+  language: en
+  feature:
+    tabs: false
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
 
 nav:
   - Home: 'index.md'
