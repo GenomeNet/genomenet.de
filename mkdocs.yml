@@ -1,10 +1,10 @@
-site_name: GenomeNet Documentation
-site_url: http://genomenet.de/about #this is the main site!
-site_description: GenomeNet Documentation 
+site_name: GenomeNet
+site_url: http://www.genomenet.de #this is the main site!
+site_description: Deep neural nets for genomic modelling
 site_author: Philipp Münch
 
-repo_url: https://github.com/genomenet/about
-repo_name: 'About'
+repo_url: https://github.com/genomenet/genomenet.de
+repo_name: 'genomenet.de'
 
 theme:
   name: material
