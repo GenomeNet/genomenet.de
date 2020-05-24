@@ -4,7 +4,7 @@ site_description: GenomeNet Documentation
 site_author: Philipp Münch
 
 repo_url: https://github.com/genomenet/about
-repo_name: 'GitHub Home'
+repo_name: 'About'
 
 theme:
   name: material
