@@ -17,8 +17,8 @@ theme:
     primary: grey
     accent: green
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Space Mono
+    code: Space Mono
   logo: 'images/logo.png'
 
 nav:
