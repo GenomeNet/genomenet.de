@@ -1,0 +1,18 @@
+site_name:        GenomeNet Documentation
+site_author:      Philipp Münch
+repo_url:         https://github.com/genomenet/about
+site_description: Documentation 
+site_url: http://genomenet.de/about #this is the main site!
+
+theme:
+  name: material
+  palette:
+    primary: 'blue grey'
+    accent: 'indigo'
+  logo: images/logo.png
+
+markdown_extensions:
+  - extra
+
+nav:
+  - Home: 'index.md'
