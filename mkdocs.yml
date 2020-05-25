@@ -15,11 +15,11 @@ theme:
     tabs: true
   palette:
     primary: grey
-    accent: deep-purple
+    accent: black
   font:
-    text: Robo Mono
-    code: Robo Mono
-  logo: images/purple.png
+    text: Courier Prime 
+    code: Courier Prime 
+  logo: images/logo_simple.png
 
 copyright: "Copyright &copy; 2020 GenomeNet Author(s)"
 
