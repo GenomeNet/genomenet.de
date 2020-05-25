@@ -23,4 +23,4 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - deepG: 'deepG/index.md'
+  - deepG: 'deepg.md'
