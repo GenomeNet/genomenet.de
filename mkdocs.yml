@@ -9,7 +9,7 @@ repo_name: 'genomenet.de'
 theme:
   name: material
   include_search_page: false   # Don't include MkDocs' JavaScript
-  search_index_only: false
+  search_index_only: true
   language: en
   feature:
     tabs: true
@@ -17,10 +17,16 @@ theme:
     primary: grey
     accent: green
   font:
-    text: Robo Mono
+    text: Robo
     code: Robo Mono
   logo: 'https://github.com/GenomeNet/genomenet.de/blob/master/images/logo.png?raw=true'
 
 nav:
-  - Home: 'index.md'
-  - deepG: 'deepg.md'
+  - Home: index.md
+  - Project overview: project-overview.md
+  - DeepG:
+    - Installation: deepg/installation.md
+    - Build: deepg/build.md
+    - Build: deepg/build.md
+  - Contributing: contributing.md
+  - License: license.md
