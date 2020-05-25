@@ -1,6 +1,6 @@
 # GenomeNet - Deep neural nets for genomic modelling
 
-![logo](imgages/logo.png)
+![GenomeNet logo](https://github.com/GenomeNet/genomenet.de/blob/master/docs/images/logo.png?raw=true)
 
 ## In search of the right architecture 
 
