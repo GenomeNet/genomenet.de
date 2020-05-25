@@ -50,11 +50,11 @@ markdown_extensions:
 nav:
   - Introduction: index.md
   - Progress: progress.md
-  - deepG:
-    - Installation: ./deepG/installation.md
-    - Getting started: ./deepG/getting-started.md
-    - Build functions: ./deepG/build.md
-    - Scan functions: ./deepG/scan.md
-    - Examples: ./deepG/examples.md
-  - About:
-    - License: license.md
+  - Resources:
+    - deepG:
+      - Installation: ./deepG/installation.md
+      - Getting started: ./deepG/getting-started.md
+      - Build functions: ./deepG/build.md
+      - Scan functions: ./deepG/scan.md
+      - Examples: ./deepG/examples.md
+      - License: ./deepG/license.md
