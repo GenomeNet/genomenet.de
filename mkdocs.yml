@@ -26,7 +26,7 @@ nav:
   - Project overview: project-overview.md
   - DeepG:
     - Installation: deepg/installation.md
-    - Build: deepg/build.md
-    - Build: deepg/build.md
+    - Getting started: deepg/getting-started.md
+    - Examples: deepg/examples.md
   - Contributing: contributing.md
   - License: license.md
