@@ -17,9 +17,9 @@ theme:
     primary: grey
     accent: red
   font:
-    text: Robo
+    text: Robo Mono
     code: Robo Mono
-  logo: images/logo_bw.png
+  logo: images/logo_black.png
 
 copyright: "Copyright &copy; 2020 GenomeNet Author(s)"
 
