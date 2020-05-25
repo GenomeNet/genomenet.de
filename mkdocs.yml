@@ -19,7 +19,7 @@ theme:
   font:
     text: Robo
     code: Robo Mono
-  logo: images/logo_simple.png
+  logo: images/logo_bw.png
 
 copyright: "Copyright &copy; 2020 GenomeNet Author(s)"
 
@@ -35,7 +35,7 @@ nav:
   - Introduction: index.md
   - Progress: progress.md
   - DeepG:
-    - Installation: ./deepg/installation.md
+    - Installation: deepg/installation.md
     - Getting started: ./deepg/getting-started.md
     - Build functions: ./deepg/build.md
     - Scan functions: ./deepg/scan.md
