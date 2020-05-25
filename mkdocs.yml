@@ -34,12 +34,11 @@ markdown_extensions:
 nav:
   - Introduction: index.md
   - Progress: progress.md
-  - DeepG:
+  - deepg:
     - Installation: deepg/installation.md
     - Getting started: ./deepg/getting-started.md
     - Build functions: ./deepg/build.md
     - Scan functions: ./deepg/scan.md
-    - Getting started: deepg/getting-started.md
     - Examples: ./deepg/examples.md
   - About:
     - License: license.md
