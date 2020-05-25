@@ -1,7 +1,7 @@
 # Installation
 
 
-## With GPU support
+## With GPU support <small>recommended</small>
 
 === "conda"
     ``` bash
