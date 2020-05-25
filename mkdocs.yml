@@ -11,8 +11,8 @@ theme:
   include_search_page: false   # Don't include MkDocs' JavaScript
   search_index_only: true
   language: en
-  feature:
-    tabs: true
+  features:
+    - tabs
   palette:
     primary: grey
     accent: black
