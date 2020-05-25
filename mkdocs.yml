@@ -24,6 +24,10 @@ theme:
 copyright: "Copyright &copy; 2020 GenomeNet Author(s)"
 
 markdown_extensions:
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - pymdownx.inlinehilite:
+  - pymdownx.superfences:
   - codehilite
   - admonition
   - footnotes
