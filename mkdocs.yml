@@ -15,11 +15,11 @@ theme:
     - tabs
   palette:
     primary: black
-    accent: black
+    accent: deep purple
   font:
-    text: Roboto Mono
+    text: Roboto
     code: Roboto Mono
-  logo: images/logo_simple.png
+  logo: images/purple.png
 
 copyright: "Copyright &copy; 2020 GenomeNet Author(s)"
 
