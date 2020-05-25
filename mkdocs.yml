@@ -17,8 +17,8 @@ theme:
     primary: grey
     accent: black
   font:
-    text: Courier Prime 
-    code: Courier Prime 
+    text: Source Code Pro
+    code: Source Code Pro
   logo: images/logo_simple.png
 
 copyright: "Copyright &copy; 2020 GenomeNet Author(s)"
