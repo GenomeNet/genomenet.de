@@ -15,11 +15,11 @@ theme:
     tabs: true
   palette:
     primary: grey
-    accent: green
+    accent: purple
   font:
     text: Robo
     code: Robo Mono
-  logo: 'images/logo_simple.png'
+  logo: 'https://github.com/GenomeNet/genomenet.de/blob/master/images/logo_simple.png?raw=true'
 
 nav:
   - Home: index.md
