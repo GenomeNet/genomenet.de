@@ -19,9 +19,9 @@ theme:
   font:
     text: Robo
     code: Robo Mono
-  logo: 'images/logo_simple.png'
+  logo: images/logo_simple.png
 
-copyright: 'Copyright &copy; 2020 Philipp C. Münch'
+copyright: "Copyright &copy; 2020 GenomeNet Author(s)"
 
 markdown_extensions:
   - codehilite
