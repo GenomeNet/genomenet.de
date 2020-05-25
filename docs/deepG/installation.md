@@ -1,5 +1,13 @@
 # Installation
 
+# A simple test
+
+``` python
+import tensorflow as tf
+```
+
+# A test of tabbed codes
+
 === "Bash"
     ``` bash
     #!/bin/bash
