@@ -19,7 +19,7 @@ theme:
   font:
     text: Robo
     code: Robo Mono
-  logo: 'https://github.com/GenomeNet/genomenet.de/blob/master/images/logo.png?raw=true'
+  logo: 'images/logo_simple.png'
 
 nav:
   - Home: index.md
