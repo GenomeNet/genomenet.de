@@ -35,7 +35,7 @@ nav:
   - Introduction: index.md
   - Progress: progress.md
   - deepG:
-    - Installation: deepG/installation.md
+    - Installation: ./deepG/installation.md
     - Getting started: ./deepG/getting-started.md
     - Build functions: ./deepG/build.md
     - Scan functions: ./deepG/scan.md

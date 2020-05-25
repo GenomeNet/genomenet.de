@@ -6,4 +6,4 @@ The joint project _GenomeNet_ is focused on genomics, more specifically on the m
 This is where _GenomeNet_ starts: **This project aims to develop a deep neural network for modelling genomic data.** The novel method will use so-called model-based optimisation to find a special deep learning architecture for processing genomes. It is planned to train the network with publicly available genomes. The new network will have a wide range of applications: It will be used for the de-novo identification of still unknown structures, for the imputation (completion) of missing nucleotides as well as for the development of data-efficient classification systems that require less labelled data than before.
 
 ## A library for genomic modelling
-We announced [deepG](/deepG/getting-started.md), a R library that builds neural networks optimized for genomic datasets.   
+We announced [deepG](./deepG/getting-started.md), a R library that builds neural networks optimized for genomic datasets.   
