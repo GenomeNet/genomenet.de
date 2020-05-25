@@ -4,7 +4,7 @@ site_description: Deep neural nets for genomic modelling
 site_author: Philipp Münch
 
 repo_url: https://github.com/genomenet/genomenet.de
-repo_name: 'genomenet.de'
+repo_name: 'genomenet/genomenet.de'
 
 theme:
   name: material
@@ -14,15 +14,18 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: grey
-    accent: purple
+    primary: 'grey'
+    accent: 'black'
   font:
     text: Robo
     code: Robo Mono
-  logo: 'https://github.com/GenomeNet/genomenet.de/blob/master/images/logo_simple.png?raw=true'
+  logo: 'images/logo_simple.png'
+docs_dir: docs
+copyright: 'Copyright &copy; 2020 Philipp C. Münch'
 
 markdown_extensions:
   - codehilite
+      guess_lang: false
   - admonition
   - footnotes
   - pymdownx.tabbed
@@ -31,12 +34,11 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Home: 'index.md'
-  - Project overview: 'project-overview.md'
+  - Introduction: 'index.md'
   - Progress: 'progress.md'
   - DeepG:
     - 'Installation': 'deepg/installation.md'
-    - 'Getting started': deepg/getting-started.md'
+    - 'Getting started': 'deepg/getting-started.md'
     - 'Examples': 'deepg/examples.md'
-  - Contributing: 'contributing.md'
-  - License: 'license.md'
+  - About:
+    - 'License': 'license.md'
