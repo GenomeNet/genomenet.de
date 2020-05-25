@@ -1,5 +1,7 @@
 # GenomeNet - Deep neural nets for genomic modelling
 
+![logo](imgages/logo.png)
+
 ## In search of the right architecture 
 
 The joint project _GenomeNet_ is focused on genomics, more specifically on the modelling of genomic data. One of the greatest challenges in the life sciences is to better understand the complexity of the dynamics and organisation of the genome. Despite major progress in recent years, the functional relevance of a large part of the genome is still unknown. A promising approach to gain more insight in the field of genomics is the application of the deep learning method, which has already been employed successfully in other areas. However, different deep learning network architectures are suitable for different types of data representations. So far, it is not yet known which architectures or combinations of them might be suitable exactly for modelling genomes.
