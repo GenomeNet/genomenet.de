@@ -21,9 +21,35 @@ theme:
     code: Robo Mono
   logo: 'https://github.com/GenomeNet/genomenet.de/blob/master/images/logo_simple.png?raw=true'
 
+markdown_extensions:
+  - codehilite
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+   - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.tilde
+  
 nav:
   - Home: index.md
   - Project overview: project-overview.md
+  - Progress: progress.md
   - DeepG:
     - Installation: deepg/installation.md
     - Getting started: deepg/getting-started.md
