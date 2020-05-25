@@ -14,7 +14,7 @@ theme:
   features:
     - tabs
   palette:
-    primary: black
+    primary: grey
     accent: deep purple
   font:
     text: Roboto
