@@ -1,5 +1,5 @@
 site_name: GenomeNet
-site_url: http://www.genomenet.de #this is the main site!
+site_url: https://genomenet.netlify.app/ #this is the main site!
 site_description: Deep neural nets for genomic modelling
 site_author: Philipp Münch
 
@@ -9,16 +9,16 @@ repo_name: 'genomenet.de'
 theme:
   name: material
   include_search_page: false   # Don't include MkDocs' JavaScript
-  search_index_only: true
+  search_index_only: false
   language: en
   feature:
-    tabs: false
+    tabs: true
   palette:
     primary: grey
     accent: green
   font:
-    text: Space Mono
-    code: Space Mono
+    text: Robo Mono
+    code: Robo Mono
   logo: 'images/logo.png'
 
 nav:
